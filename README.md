@@ -1,7 +1,7 @@
 # SLSA workshop
 
 ## Installation
-Install the [necessary software](./install.md).
+[必要なソフトウェア](./install.md)のインストール
 
 ## Schedule
 1. [Presentation: Introduction to SLSA](https://github.com/slsa-framework/oss-na24-slsa-workshop/releases/download/materials/presentation.pdf) Page 4
