@@ -1,9 +1,9 @@
 # SLSA workshop
 
-## Installation
-[必要なソフトウェア](./install.md)のインストール
+## 必要なソフトウェア
+必要なソフトウェアの[インストール](./install.md)
 
-## Schedule
+## スケジュール
 1. [Presentation: Introduction to SLSA](https://github.com/slsa-framework/oss-na24-slsa-workshop/releases/download/materials/presentation.pdf) Page 4
 2. [Activity 01: Generate and verify SLSA provenance](./activities/01/readme.md)
 3. [Presentation: Publish and deployment policies](https://github.com/slsa-framework/oss-na24-slsa-workshop/releases/download/materials/presentation.pdf) Page 12
