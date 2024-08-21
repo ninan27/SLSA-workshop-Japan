@@ -1,5 +1,5 @@
 # Installation
-アクティビティで用いるソフトウェアのインストール方法
+アクティビティで用いるソフトウェア一覧
 
 ## GitHub Account
 [GitHub account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)の作成
