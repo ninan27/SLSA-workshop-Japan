@@ -4,7 +4,7 @@
 必要なソフトウェアの[インストール](./install.md)
 
 ## スケジュール
-1. [Presentation: Introduction to SLSA](https://github.com/slsa-framework/oss-na24-slsa-workshop/releases/download/materials/presentation.pdf) Page 4
-2. [Activity 01: Generate and verify SLSA provenance](Activity/1/1.md)
-3. [Presentation: Publish and deployment policies](https://github.com/slsa-framework/oss-na24-slsa-workshop/releases/download/materials/presentation.pdf) Page 12
-4. [Activity 02: Publish policy](Activity/2/2.md)
+1. SLSAの概要説明
+1. アクティビティ：SLSA provenanceの生成と検証
+1. SLSAのPublish/Deployment policyの概要説明
+1. アクティビティ：Publish policyの生成と検証
